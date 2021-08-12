@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kavladov
-- 👀 I’m interested in games or programs that can improve quality of life
+- 👀 I’m interested in games or programs that can improve quality of life of other people
 - 🌱 I’m currently learning Unity and C#
 - 📫 How to reach me. You can write me on KaVladov0229@gmail.ru
 
